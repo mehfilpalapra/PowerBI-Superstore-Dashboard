@@ -20,5 +20,7 @@ This Power BI report visualizes regional sales performance, customer behavior, a
 - `Superstore_Sales_Performance.pbix`
 
 ---
+![image](https://github.com/user-attachments/assets/d9070962-5961-4d41-81a0-24d1373b4436)
+
 
 ✨ Created by Mehfil – aspiring Data Analyst with a passion for storytelling using data.
